@@ -1,2 +1,2 @@
 # LaptopWorld
-A laptop viewing website based on Node.js.
+A Node.js based web application to view, compare and buy latest laptop models.
